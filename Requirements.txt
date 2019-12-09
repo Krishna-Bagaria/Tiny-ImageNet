@@ -1,0 +1,16 @@
+The project is done in python programming language. 
+The following libraries are required to successfully run the files.
+
+numpy
+pandas
+matplotlib
+keras
+cv2
+cv
+sklearn
+skimage
+os
+mahotas
+jupyter notebook
+pickle
+xgboost
